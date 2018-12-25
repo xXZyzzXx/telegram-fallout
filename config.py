@@ -1,4 +1,3 @@
-import telebot
 
 token='583470512:AAFXUG23pVU0pqzD6L5kACDUg69riVzN-_Q'
 
