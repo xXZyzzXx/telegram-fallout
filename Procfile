@@ -1,1 +1,1 @@
-web: python proga.py
+web: python bot.py
